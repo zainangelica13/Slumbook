@@ -2,8 +2,6 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Responsive Table + Detail View</title>
-  
   
 
   

@@ -93,7 +93,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	 <div class="content">
 		 <div class="details_header">
 			 <ul>
-				 <li><a href="infotry.php"><span class="glyphicon glyphicon-file" aria-hidden="true"></span>View Other Information</a></li>
+				 <li><a href="ViewingInformationTable.php"><span class="glyphicon glyphicon-file" aria-hidden="true"></span>View Other Information</a></li>
 				 <div id="small-dialog" class="mfp-hide">
 					<img src="inform/images/g4.jpg" alt=""/>
 				 </div>
@@ -115,7 +115,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</script>
 			 </ul>
 		 </div>
-		 <form action="information1.php" method="GET" enctype="multipart/form-data">	
+		 <form action="Updatinginformation.php" method="GET" enctype="multipart/form-data">	
 		 <div class="company contact-grid">
 			 <h3 class="clr1">INFORMATION</h3> <br>
 					

@@ -43,7 +43,7 @@ if ($conn->connect_error) {
 		echo '<script language="javascript">';
 		echo 'window.alert("Update Successfully")';
 		echo '</script>';
-		require_once 'peopleadmininformation1.php';
+		require_once 'Updatingpeopleadmininformation.php';
 	} 
 	else 	
 	{

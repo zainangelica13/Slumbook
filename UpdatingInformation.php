@@ -12,7 +12,7 @@ if ($conn->connect_error) {
 } 		
 	
 move_uploaded_file($_FILES["image"]["uploads"],"upload/uploads/" . $_FILES["image"]["name"]);			
-$location=$_FILES["image"]["name"];
+$location=$_FILES["image"]["name"];	
 
 	$user = $_SESSION['User'];
 				

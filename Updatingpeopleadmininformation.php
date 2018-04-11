@@ -93,7 +93,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	 <div class="content">
 		 <div class="details_header">
 			 <ul>
-				 <li><a href="Adminview.php"><span class="glyphicon glyphicon-file" aria-hidden="true"></span>View Other Information</a></li>
+				 <li><a href="AdminView.php"><span class="glyphicon glyphicon-file" aria-hidden="true"></span>View Other Information</a></li>
 				 <div id="small-dialog" class="mfp-hide">
 					 <img src="inform/images/g4.jpg" alt=""/>
 				 </div>

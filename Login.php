@@ -28,7 +28,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			<div class="img">
 				<h2>Login here</h2>
 			</div>	
-			<form action="login1.php" method="GET">
+			<form action="Updatinglogin.php" method="GET">
 				<div class="w3l-user">
 					<span><i class="fa fa-user-circle-o w3l-1" aria-hidden="true"></i></span>
 					<input type="text" name="Username" placeholder="username" required=""/>

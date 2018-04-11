@@ -21,7 +21,7 @@
 
 	
 	<p>
-		<form action="peopleadmininformation.php" method="GET">
+		<form action="AdminInformation.php" method="GET">
 			Name: <input type="text" name="name" id="demo"/>
 			<input type="submit" value="View data"/>
 		</form>
